@@ -21,7 +21,7 @@ https://rc57b0ov88.execute-api.us-east-2.amazonaws.com/default/test
 
 
 ## Kinesis Firehose Monitoring:
-![alt text]( https://github.com/karin6543/AWS-Yahoo-Finance/blob/master/WX20200524-173421@2x.png?raw=true "Graph 1")
+![alt text]( https://github.com/karin6543/AWS-Yahoo-Finance/blob/master/Capture.PNG "Graph 1")
 
 
 
