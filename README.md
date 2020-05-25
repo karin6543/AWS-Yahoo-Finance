@@ -1,4 +1,4 @@
-# :cloud:Project3 - Streaming Yahoo Finance Data :chart_with_upwards_trend:
+# :cloud:Project 3 (:pensive:) - Streaming Yahoo Finance Data :chart_with_upwards_trend:
 
 
 
