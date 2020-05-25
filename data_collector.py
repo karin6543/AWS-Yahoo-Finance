@@ -33,4 +33,11 @@ def lambda_handler(event, context):
     df2['js']=df2.apply(lambda x:get_js(x['High'],x['Low'],x['Datetime'],x['names']),axis=1)
 
     for i in df2['js'].values:
-  	    fh.put_record(DeliveryStreamName="test-delivery-stream", Record={"Data": i.encode('utf-8')})
+        fh.put_record(DeliveryStreamName="test-delivery-stream", Record={"Data": i.encode('utf-8')})
+    
+    
+    
+    return {
+        'statusCode': 200,
+        'body': json.dumps(f'Done!Check S3')
+    }
