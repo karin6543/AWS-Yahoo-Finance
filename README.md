@@ -1,4 +1,4 @@
-# :cloud:Project 3 :persevere: - Streaming Yahoo Finance Data :chart_with_upwards_trend:
+# :palm_tree::cloud: Project 3 :persevere: - Streaming Yahoo Finance Data :chart_with_upwards_trend:
 ### Kudos @mottaquikarim for making Big Data ACCESSIBLE to us(this opens new doors for many people).You are an amazing instructor!
 
 
