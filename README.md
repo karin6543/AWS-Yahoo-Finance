@@ -1,5 +1,5 @@
 # :cloud:Project 3 :persevere: - Streaming Yahoo Finance Data :chart_with_upwards_trend:
-### Kudos @mottaquikarim for teaching us all the fun Big Data Stuffs.You are an amazing instructor!
+### Kudos @mottaquikarim for making Big Data ACCESSIBLE to us(this opens new doors for many people).You are an amazing instructor!
 
 
 
